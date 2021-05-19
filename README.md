@@ -6,3 +6,4 @@ This repoisitory contains all the certificaations earned during my course for Da
 4. [Deep Learning for NLP using Python](https://certificates.simplicdn.net/share/2330111.pdf)
 5. [Python for Data by IBM](https://certificates.simplicdn.net/share/1525566.pdf)
 6. [Statistics Essential for Data Science](https://certificates.simplicdn.net/share/1524775.pdf)
+7. Developer Training for Spark and Hadoop 
